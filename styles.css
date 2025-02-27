@@ -79,7 +79,7 @@ body {
 .message {
     position: absolute;
     display: none;
-    font-size: 16px;
+    font-size: 12px;
     text-align: center;
     background: rgba(255, 255, 255, 0.9);
     padding: 10px;
